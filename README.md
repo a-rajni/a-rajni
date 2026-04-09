@@ -15,7 +15,7 @@
 ## 🧰 Tech Stack
 💻 **Languages & Tools**
 - 🐍 Python (Pandas, NumPy, Matplotlib)
-- 📊 SQL (MySQL, PostgreSQL)
+- 📊 SQL  <!-- (MySQL, PostgreSQL) -->
 - 📈 Excel (Advanced)
 - 📉 Power BI
 
